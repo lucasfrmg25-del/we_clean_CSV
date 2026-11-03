@@ -55,6 +55,22 @@ python we_clean.py
 
 O programa solicitará o caminho do arquivo CSV que será analisado.
 
+### Teste rápido
+
+O repositório inclui um arquivo de demonstração em:
+
+```text
+exemplos/teste_inconsistencias.csv
+```
+
+Ao executar o programa, informe esse caminho quando solicitado:
+
+```text
+exemplos/teste_inconsistencias.csv
+```
+
+O arquivo de exemplo contém propositalmente valores nulos, uma linha duplicada, variações de capitalização e espaços em textos para demonstrar o fluxo de limpeza.
+
 ## Fluxo do We Clean
 
 ```text
